@@ -9,11 +9,11 @@ In this project, you will explore different caching algorithms, learning their m
 To gain a comprehensive understanding of caching algorithms, you should read or watch the following materials:
 
 - **Cache Replacement Policies:**
-  - [FIFO (First-In, First-Out)](https://example.com)
-  - [LIFO (Last-In, First-Out)](https://example.com)
-  - [LRU (Least Recently Used)](https://example.com)
-  - [MRU (Most Recently Used)](https://example.com)
-  - [LFU (Least Frequently Used)](https://example.com)
+  - [FIFO (First-In, First-Out)](https://en.wikipedia.org/wiki/Cache_replacement_policies#First_In_First_Out_%28FIFO%29)
+  - [LIFO (Last-In, First-Out)](https://en.wikipedia.org/wiki/Cache_replacement_policies#First_In_First_Out_%28FIFO%29)
+  - [LRU (Least Recently Used)](https://en.wikipedia.org/wiki/Cache_replacement_policies#First_In_First_Out_%28FIFO%29)
+  - [MRU (Most Recently Used)](https://en.wikipedia.org/wiki/Cache_replacement_policies#First_In_First_Out_%28FIFO%29)
+  - [LFU (Least Frequently Used)](https://en.wikipedia.org/wiki/Cache_replacement_policies#First_In_First_Out_%28FIFO%29)
 
 ## Learning Objectives
 
